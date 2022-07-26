@@ -78,7 +78,7 @@
     "gulp-watch": "^5.0.1",
     "jquery": "^3.3.1",
     "map-stream": "^0.1.0",
-    "merge-stream": "^1.0.0",
+    "merge-stream": "^2.0.0",
     "mkdirp": "^0.5.1",
     "require-dot-file": "^0.4.0",
     "replace-ext": "^1.0.0",
@@ -92,7 +92,7 @@
     "gulp-debug": "*",
     "gulp-git": "*",
     "gulp-tap": "*",
-    "merge-stream": "*"
+    "merge-stream": "2.0.0"
   },
   "style": "dist/semantic.css"
 }
